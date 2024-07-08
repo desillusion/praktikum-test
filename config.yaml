@@ -1,4 +1,4 @@
-baseURL: "praktikum-test/"
+baseURL: "https://desillusion.github.io/praktikum-test/"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
